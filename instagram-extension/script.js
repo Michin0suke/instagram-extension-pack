@@ -1,3 +1,4 @@
+document.querySelector('.ctQZg').remove()
 const interval = setInterval(() => {
   if (document.querySelector('.RnEpo.Yx5HN')) {
     document.querySelector('.RnEpo.Yx5HN').remove();
